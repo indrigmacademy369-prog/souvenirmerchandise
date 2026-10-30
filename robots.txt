@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Host & Sitemap
+Host: https://souvenirmerchandise.vercel.app
+Sitemap: https://souvenirmerchandise.vercel.app/sitemap.xml
